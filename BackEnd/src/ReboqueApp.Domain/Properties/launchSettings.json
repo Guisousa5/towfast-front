@@ -1,0 +1,11 @@
+{
+  "profiles": {
+    "ReboqueApp.Domain": {
+      "commandName": "Project"
+    },
+    "Perfil 1": {
+      "commandName": "Executable",
+      "executablePath": "C:\\Users\\guiso\\OneDrive\\Área de Trabalho\\ReboqueApp\\src\\ReboqueApp.API\\ReboqueApp.API.csproj"
+    }
+  }
+}
